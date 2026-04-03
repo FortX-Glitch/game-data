@@ -1,1 +1,12 @@
-BIENVENUE DANS LA VERSION ALPHA ! RESTEZ À L'ÉCOUTE POUR LES MISES À JOUR.
+[
+  {
+    "titre": "ALERTE SYSTÈME : ALPHA 1.2",
+    "message": "NOUVELLES ZONES DÉBLOQUÉES DANS LE SECTEUR 4.",
+    "couleur": "red"
+  },
+  {
+    "titre": "TRANSMISSION REÇUE",
+    "message": "BIENVENUE AUX NOUVEAUX RECRUES.",
+    "couleur": "green"
+  }
+]
