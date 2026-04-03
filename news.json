@@ -1,12 +1,12 @@
 [
   {
-    "titre": "ALERTE SYSTÈME : ALPHA 1.2",
-    "message": "NOUVELLES ZONES DÉBLOQUÉES DANS LE SECTEUR 4.",
-    "couleur": "red"
+    "titre": "TRANSMISSION : RÉSEAU ALPHA",
+    "message": "Merci à tous les nouveaux explorateurs. N'oubliez pas de signaler les bugs sur notre Discord officiel pour nous aider à améliorer l'expérience.",
+    "couleur": "green"
   },
   {
-    "titre": "TRANSMISSION REÇUE",
-    "message": "BIENVENUE AUX NOUVEAUX RECRUES.",
-    "couleur": "green"
+    "titre": "ENTRÉE DE JOURNAL : SUJET #836",
+    "message": "Le silence ici est plus bruyant que le néon. Je crois que les murs ont bougé pendant que je dormais...",
+    "couleur": "cyan"
   }
 ]
