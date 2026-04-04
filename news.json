@@ -13,5 +13,15 @@
     "titre": "ENTRÉE DE JOURNAL : SUJET #836",
     "message": "Le silence ici est plus bruyant que le néon. Je crois que les murs ont bougé pendant que je dormais...",
     "couleur": "cyan"
-  }
+  },
+  {
+    "titre": "CORRECTIF DÉPLOYÉ : VERSION 0.0.3.1",
+    "message": "La lampe UV a été remise au sol ! Nous avons également corrigé plusieurs bugs mineurs pour stabiliser votre session.",
+    "couleur": "green"
+  },
+  {
+    "titre": "LOGISTIQUE : PROTOCOLE DE MISE À JOUR",
+    "message": "La v0.0.3.1 est disponible sur Itch.io (https://itch.io/game/edit/4416200). Note : La version 0.0.3.0 reste jouable jusqu'à la prochaine mise à jour majeure.",
+    "couleur": "yellow"
+  },
 ]
