@@ -1,27 +1,12 @@
 [
   {
-    "titre": "TRANSMISSION : RÉSEAU ALPHA",
-    "message": "Merci à tous les nouveaux explorateurs. N'oubliez pas de signaler les bugs sur notre Discord officiel pour nous aider à améliorer l'expérience.",
-    "couleur": "green"
+    "titre": "MATRICULE M-216",
+    "message": "Miller a échoué à maintenir son intégrité psychologique face aux exigences de productivité. Les rapports de la brigade de nettoyage confirment que l'employé a choisi une "issue non contractuelle" via l'ingestion de substances non autorisées dans ses quartiers privés.",
+    "couleur": "red"
   },
   {
-    "titre": "NOTE DES DÉVELOPPEURS : ÉTAT DU CHANTIER",
-    "message": "Le travail continue ! Nos équipes développent activement les prochaines mises à jour mécaniques et approfondissent l'histoire sombre de cet univers. Restez aux aguets.",
-    "couleur": "yellow"
-  },
-  {
-    "titre": "ENTRÉE DE JOURNAL : SUJET #836",
-    "message": "Le silence ici est plus bruyant que le néon. Je crois que les murs ont bougé pendant que je dormais...",
+    "titre": "À l'attention du personnel de l'Usine",
+    "message": "Nous vous informons par la présente que le poste de compacteur de secteur 4 est désormais vacant.",
     "couleur": "cyan"
-  },
-  {
-    "titre": "CORRECTIF DÉPLOYÉ : VERSION 0.0.3.1",
-    "message": "La lampe UV a été remise au sol ! Nous avons également corrigé plusieurs bugs mineurs pour stabiliser votre session.",
-    "couleur": "green"
-  },
-  {
-    "titre": "LOGISTIQUE : PROTOCOLE DE MISE À JOUR",
-    "message": "La v0.0.3.1 est disponible sur Itch.io (https://studio-specter.itch.io/the-compactor). Note : La version 0.0.3.0 reste jouable jusqu'à la prochaine mise à jour majeure.",
-    "couleur": "yellow"
   },
 ]
